@@ -1,7 +1,7 @@
 ### pythonstock V1 项目简介
 
 
-**特别说明：股市有风险投资需谨慎，本项目只能用于Python代码学习，股票分析，投资失败亏钱不负责，不算BUG。**
+**特别说明：股市有风险投资需谨慎，本项目只能用于Python代码学习，股票分析，投资失败亏钱不负责，不算BUGd 。**
 
 ```
 PythonStock V1 是基于Python的pandas，tushare，bokeh，tornado，stockstats，ta-lib等框架开发的全栈股票系统。
